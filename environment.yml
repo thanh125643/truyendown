@@ -1,0 +1,14 @@
+name: truyendown
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - selenium
+  - pylama
+  - black
+  - requests
+  - bs4
+  - lxml
+  - tqdm
+
+

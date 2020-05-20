@@ -1,0 +1,26 @@
+v0.4 early access
+Bugfix:
+* Fix error when chapter title have some special charater (some change in name)
+* Fix some think about get too much resoucre for this app
+* Fix bug when you exit app but some function still remain
+New feature:
+* Add auto update when you down some novel which was down before (same link)
+* Update new method to get all link novel faster (x1000)
+* Now your thread will auto choose to fix bug when you choose thread to lagre (min(32,number of core * 2 + 4))
+Quality of life:
+* Now all your chapter you down will have sort better
+* Now you will have title chapter in top of chapter
+* Two think above also fix the bug of name file
+
+v0.3 early access
+Bug fix:
+* Fix bug for crtl+c to stop propram (some sync problem)
+* Fix bug with char " in name chapter (will change to ')
+New feature:
+* Add some download bar to visual how much chapter it need to download
+Quality of life:
+* Name of chapter now will have ext .txt for open faster
+* More info about where program run for report a bug
+New package use:
+* tqdm for download bar
+
